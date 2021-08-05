@@ -5,7 +5,7 @@ A generic wrapper for any svg path to create a standardized and flexible react c
 
 Create a new jsx file like `MdCancelIcon.js`, and take the path from any svg like [material design's cancel icon](https://github.com/google/material-design-icons/blob/224895a86501195e7a7ff3dde18e39f00b8e3d5a/navigation/svg/design/ic_cancel_24px.svg?short_path=b2dac49).  Pass into GenIcon ....
 
-```
+```js
 // Note: haven't published to npm yet!!!
 import { GenIcon } from "react-gen-icon";
 
